@@ -8,7 +8,7 @@
   "server": {
     "ip": "Zedroxsmp.aternos.me",
     "port": 43566,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
